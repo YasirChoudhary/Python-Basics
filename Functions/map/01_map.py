@@ -1,3 +1,9 @@
+"""
+map function:
+1) Apply same function to each element of a sequence and it return modified list.
+2) map function takes two argument first one is function and second argument is
+   list, tuple or other iterable object.
+"""
 # calculate square of each element in a list
 def square(lst1):
 	lst2 = []
